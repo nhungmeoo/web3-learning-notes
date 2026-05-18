@@ -25,3 +25,9 @@ This repository contains my personal learning notes and research related to Web3
 ## Progress Log
 
 Learning and improving step by step.
+
+## May 18, 2026
+
+- Learning GitHub workflow 
+- Exploring blockchain fundamentals 
+- Researching Web3 development concepts
