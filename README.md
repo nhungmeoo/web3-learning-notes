@@ -31,3 +31,8 @@ Learning and improving step by step.
 - Learning GitHub workflow 
 - Exploring blockchain fundamentals 
 - Researching Web3 development concepts
+
+## May 19, 2026 
+- Researching DeFi protocols 
+- Studying liquidity pool mechanisms 
+- Exploring staking concepts
