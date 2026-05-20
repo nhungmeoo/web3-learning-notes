@@ -36,3 +36,8 @@ Learning and improving step by step.
 - Researching DeFi protocols 
 - Studying liquidity pool mechanisms 
 - Exploring staking concepts
+
+## May 20, 2026 
+- Reviewing blockchain consensus systems 
+- Learning validator fundamentals 
+- Researching network scalability
