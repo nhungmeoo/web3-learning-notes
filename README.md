@@ -46,3 +46,8 @@ Learning and improving step by step.
 - Exploring wallet integration flows
 - Studying transaction lifecycle
 - Improving repository organization
+
+## May 22, 2026 
+- Learning ERC20 token standards 
+- Reviewing governance systems 
+- Researching DAO structures
