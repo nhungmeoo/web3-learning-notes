@@ -51,3 +51,8 @@ Learning and improving step by step.
 - Learning ERC20 token standards 
 - Reviewing governance systems 
 - Researching DAO structures
+
+## May 25, 2026 
+- Researching RPC providers 
+- Learning node infrastructure 
+- Exploring blockchain APIs
