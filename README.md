@@ -56,3 +56,8 @@ Learning and improving step by step.
 - Researching RPC providers 
 - Learning node infrastructure 
 - Exploring blockchain APIs
+
+## May 26, 2026 
+- Reviewing Git branching strategies 
+- Improving version control workflow 
+- Studying collaborative development
