@@ -61,3 +61,8 @@ Learning and improving step by step.
 - Reviewing Git branching strategies 
 - Improving version control workflow 
 - Studying collaborative development
+
+## May 27, 2026 
+- Exploring decentralized storage concepts 
+- Researching IPFS fundamentals 
+- Learning Web3 infrastructure basics
