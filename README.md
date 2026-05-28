@@ -66,3 +66,8 @@ Learning and improving step by step.
 - Exploring decentralized storage concepts 
 - Researching IPFS fundamentals 
 - Learning Web3 infrastructure basics
+
+## May 28, 2026 
+- Studying zk-rollup technology
+- Exploring scalability solutions
+- Researching Layer 2 security
