@@ -71,3 +71,8 @@ Learning and improving step by step.
 - Studying zk-rollup technology
 - Exploring scalability solutions
 - Researching Layer 2 security
+
+## May 29, 2026 
+- Reviewing smart contract deployment flow
+- Learning testing fundamentals
+- Improving development workflow
