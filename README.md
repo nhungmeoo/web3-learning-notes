@@ -76,3 +76,8 @@ Learning and improving step by step.
 - Reviewing smart contract deployment flow
 - Learning testing fundamentals
 - Improving development workflow
+
+## June 1, 2026 
+- Learning about AMM protocols
+- Researching decentralized exchanges
+- Exploring liquidity incentives
