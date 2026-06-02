@@ -81,3 +81,8 @@ Learning and improving step by step.
 - Learning about AMM protocols
 - Researching decentralized exchanges
 - Exploring liquidity incentives
+
+## June 2, 2026 
+- Reviewing blockchain interoperability
+- Exploring cross-chain ecosystems
+- Studying bridge security concepts
