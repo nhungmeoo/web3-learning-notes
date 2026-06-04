@@ -91,3 +91,8 @@ Learning and improving step by step.
 - Learning Solidity syntax improvements
 - Researching smart contract patterns
 - Improving coding structure
+
+## June 4, 2026 
+- Exploring account abstraction concepts
+- Reviewing wallet security
+- Researching authentication methods
