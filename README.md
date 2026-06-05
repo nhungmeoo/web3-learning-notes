@@ -96,3 +96,8 @@ Learning and improving step by step.
 - Exploring account abstraction concepts
 - Reviewing wallet security
 - Researching authentication methods
+
+## June 5, 2026 
+- Studying tokenomics fundamentals
+- Exploring incentive structures
+- Reviewing ecosystem growth models
