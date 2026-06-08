@@ -101,3 +101,8 @@ Learning and improving step by step.
 - Studying tokenomics fundamentals
 - Exploring incentive structures
 - Reviewing ecosystem growth models
+
+## June 8, 2026 
+- Studying transaction fee mechanics
+- Researching gas optimization
+- Exploring network efficiency
