@@ -106,3 +106,8 @@ Learning and improving step by step.
 - Studying transaction fee mechanics
 - Researching gas optimization
 - Exploring network efficiency
+
+## June 9, 2026 
+- Learning smart contract upgrade patterns
+- Reviewing proxy contract systems
+- Exploring deployment strategies
