@@ -111,3 +111,8 @@ Learning and improving step by step.
 - Learning smart contract upgrade patterns
 - Reviewing proxy contract systems
 - Exploring deployment strategies
+
+## June 10, 2026 
+- Researching validator economics
+- Exploring Proof of Stake systems
+- Reviewing decentralization concepts
