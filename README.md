@@ -126,3 +126,8 @@ Learning and improving step by step.
 - Learning blockchain monitoring tools
 - Reviewing ecosystem analytics
 - Exploring protocol metrics
+
+## Jun 15, 2026 
+- Studying bridge mechanisms
+- Exploring cross-chain technology
+- Improving Markdown formatting
