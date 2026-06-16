@@ -131,3 +131,8 @@ Learning and improving step by step.
 - Studying bridge mechanisms
 - Exploring cross-chain technology
 - Improving Markdown formatting
+
+## Jun 15, 2026 
+- Learning smart contract security basics
+- Reviewing audit concepts
+- Exploring common vulnerabilities
