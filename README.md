@@ -132,7 +132,12 @@ Learning and improving step by step.
 - Exploring cross-chain technology
 - Improving Markdown formatting
 
-## Jun 15, 2026 
+## Jun 16, 2026 
 - Learning smart contract security basics
 - Reviewing audit concepts
 - Exploring common vulnerabilities
+
+## Jun 17, 2026 
+- Exploring blockchain analytics
+- Researching transaction monitoring
+- Learning on-chain data basics
