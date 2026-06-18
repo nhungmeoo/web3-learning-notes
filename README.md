@@ -141,3 +141,8 @@ Learning and improving step by step.
 - Exploring blockchain analytics
 - Researching transaction monitoring
 - Learning on-chain data basics
+
+## Jun 18, 2026 
+- Studying governance token systems
+- Reviewing voting mechanisms
+- Exploring DAO participation models
