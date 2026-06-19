@@ -146,3 +146,8 @@ Learning and improving step by step.
 - Studying governance token systems
 - Reviewing voting mechanisms
 - Exploring DAO participation models
+
+## June 19, 2026 
+- Learning decentralized identity concepts
+- Researching Web3 social systems
+- Exploring digital ownership
