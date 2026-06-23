@@ -151,3 +151,8 @@ Learning and improving step by step.
 - Learning decentralized identity concepts
 - Researching Web3 social systems
 - Exploring digital ownership
+
+## June 23, 2026 
+- Reviewing blockchain governance models
+- Exploring treasury management
+- Learning community coordination basics
