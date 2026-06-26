@@ -166,3 +166,6 @@ Learning and improving step by step.
 - Reviewing overall Web3 learning progress
 - Organizing blockchain research notes
 - Planning future development goals
+
+## Continue
+- Structuring development tasks better.
