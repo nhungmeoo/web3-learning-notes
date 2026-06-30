@@ -170,3 +170,4 @@ Learning and improving step by step.
 ## Continue
 - Structuring development tasks better.
 - Improving development workflow efficiency.
+- Tracking weekly progress summary.
