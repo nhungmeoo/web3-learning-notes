@@ -172,3 +172,4 @@ Learning and improving step by step.
 - Improving development workflow efficiency.
 - Tracking weekly progress summary.
 - Improving commit message clarity.
+- Researching validator incentives.
