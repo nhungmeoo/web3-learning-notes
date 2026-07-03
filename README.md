@@ -173,3 +173,4 @@ Learning and improving step by step.
 - Tracking weekly progress summary.
 - Improving commit message clarity.
 - Researching validator incentives.
+- Learning about blockchain indexing services
