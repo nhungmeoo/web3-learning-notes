@@ -174,3 +174,4 @@ Learning and improving step by step.
 - Improving commit message clarity.
 - Researching validator incentives.
 - Learning about blockchain indexing services
+- Exploring event logs and smart contract events
