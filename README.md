@@ -175,3 +175,4 @@ Learning and improving step by step.
 - Researching validator incentives.
 - Learning about blockchain indexing services
 - Exploring event logs and smart contract events
+- Reviewing data querying concepts
