@@ -176,3 +176,4 @@ Learning and improving step by step.
 - Learning about blockchain indexing services
 - Exploring event logs and smart contract events
 - Reviewing data querying concepts
+- Improving markdown bullet structures.
