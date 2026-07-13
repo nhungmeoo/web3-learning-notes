@@ -179,4 +179,4 @@ Learning and improving step by step.
 - Improving markdown bullet structures.
 - Researching blockchain explorers
 - Learning how transaction hashes work
-
+- Reviewing block confirmation process
