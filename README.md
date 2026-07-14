@@ -180,3 +180,4 @@ Learning and improving step by step.
 - Researching blockchain explorers
 - Learning how transaction hashes work
 - Reviewing block confirmation process
+- Studying NFT standards and metadata
