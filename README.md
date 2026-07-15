@@ -181,3 +181,4 @@ Learning and improving step by step.
 - Learning how transaction hashes work
 - Reviewing block confirmation process
 - Studying NFT standards and metadata
+- Improving technical documentation habits.
