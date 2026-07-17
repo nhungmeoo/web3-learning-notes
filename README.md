@@ -182,4 +182,5 @@ Learning and improving step by step.
 - Reviewing block confirmation process
 - Studying NFT standards and metadata
 - Improving technical documentation habits.
-- - Exploring ERC721 applications
+- Exploring ERC721 applications
+- Learning about digital asset ownership
