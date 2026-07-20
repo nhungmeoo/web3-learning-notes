@@ -184,3 +184,4 @@ Learning and improving step by step.
 - Improving technical documentation habits.
 - Exploring ERC721 applications
 - Learning about digital asset ownership
+- Reviewing multisig wallet concepts
