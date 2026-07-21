@@ -185,3 +185,4 @@ Learning and improving step by step.
 - Exploring ERC721 applications
 - Learning about digital asset ownership
 - Reviewing multisig wallet concepts
+- Studying token vesting mechanisms
