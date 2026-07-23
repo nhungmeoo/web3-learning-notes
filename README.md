@@ -186,4 +186,5 @@ Learning and improving step by step.
 - Learning about digital asset ownership
 - Reviewing multisig wallet concepts
 - Studying token vesting mechanisms
-- - Learning distribution strategies
+- Learning distribution strategies
+- Reviewing long-term incentive models
