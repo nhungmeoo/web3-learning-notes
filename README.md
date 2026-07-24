@@ -188,3 +188,4 @@ Learning and improving step by step.
 - Studying token vesting mechanisms
 - Learning distribution strategies
 - Reviewing long-term incentive models
+- Exploring blockchain ecosystem projects
