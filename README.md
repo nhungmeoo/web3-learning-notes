@@ -189,3 +189,4 @@ Learning and improving step by step.
 - Learning distribution strategies
 - Reviewing long-term incentive models
 - Exploring blockchain ecosystem projects
+- Learning community contribution models
