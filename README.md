@@ -190,3 +190,4 @@ Learning and improving step by step.
 - Reviewing long-term incentive models
 - Exploring blockchain ecosystem projects
 - Learning community contribution models
+- Exploring GitHub Actions basics.
