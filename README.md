@@ -191,3 +191,4 @@ Learning and improving step by step.
 - Exploring blockchain ecosystem projects
 - Learning community contribution models
 - Exploring GitHub Actions basics.
+- Reviewing open source collaboration
