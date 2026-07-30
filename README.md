@@ -192,3 +192,4 @@ Learning and improving step by step.
 - Learning community contribution models
 - Exploring GitHub Actions basics.
 - Reviewing open source collaboration
+- Learning smart contract optimization techniques
