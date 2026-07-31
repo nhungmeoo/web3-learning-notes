@@ -193,3 +193,4 @@ Learning and improving step by step.
 - Exploring GitHub Actions basics.
 - Reviewing open source collaboration
 - Learning smart contract optimization techniques
+- Reviewing efficient coding practices
