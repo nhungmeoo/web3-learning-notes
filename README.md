@@ -194,3 +194,4 @@ Learning and improving step by step.
 - Reviewing open source collaboration
 - Learning smart contract optimization techniques
 - Reviewing efficient coding practices
+- Exploring gas saving strategies
