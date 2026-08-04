@@ -195,3 +195,4 @@ Learning and improving step by step.
 - Learning smart contract optimization techniques
 - Reviewing efficient coding practices
 - Exploring gas saving strategies
+- Studying inflationary vs deflationary tokens.
