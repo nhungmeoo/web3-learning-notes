@@ -196,3 +196,4 @@ Learning and improving step by step.
 - Reviewing efficient coding practices
 - Exploring gas saving strategies
 - Studying inflationary vs deflationary tokens.
+- Summarizing recent Web3 learning progress
