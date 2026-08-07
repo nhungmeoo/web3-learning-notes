@@ -198,3 +198,4 @@ Learning and improving step by step.
 - Studying inflationary vs deflationary tokens.
 - Summarizing recent Web3 learning progress
 - Improving code readability awareness.
+- Exploring distributed consensus theory.
