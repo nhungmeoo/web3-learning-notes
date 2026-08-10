@@ -199,3 +199,4 @@ Learning and improving step by step.
 - Summarizing recent Web3 learning progress
 - Improving code readability awareness.
 - Exploring distributed consensus theory.
+- Exploring cross chain messaging systems.
