@@ -200,3 +200,4 @@ Learning and improving step by step.
 - Improving code readability awareness.
 - Exploring distributed consensus theory.
 - Exploring cross chain messaging systems.
+- Exploring blockchain analytics tools.
