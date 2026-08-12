@@ -201,3 +201,4 @@ Learning and improving step by step.
 - Exploring distributed consensus theory.
 - Exploring cross chain messaging systems.
 - Exploring blockchain analytics tools.
+- Continuing to build and document my Web3 journey.
