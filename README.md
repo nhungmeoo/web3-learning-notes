@@ -204,3 +204,4 @@ Learning and improving step by step.
 - Continuing to build and document my Web3 journey.
 - Exploring APIs
 - Exploring wallet flow
+- Reviewing governance flow
