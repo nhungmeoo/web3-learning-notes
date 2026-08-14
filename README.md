@@ -203,3 +203,4 @@ Learning and improving step by step.
 - Exploring blockchain analytics tools.
 - Continuing to build and document my Web3 journey.
 - Exploring APIs
+- Exploring wallet flow
