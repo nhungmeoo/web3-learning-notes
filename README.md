@@ -205,3 +205,4 @@ Learning and improving step by step.
 - Exploring APIs
 - Exploring wallet flow
 - Reviewing governance flow
+- Learning about APIs
