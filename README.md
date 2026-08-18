@@ -206,3 +206,4 @@ Learning and improving step by step.
 - Exploring wallet flow
 - Reviewing governance flow
 - Learning about APIs
+- Studying liquidity models
