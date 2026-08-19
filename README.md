@@ -207,3 +207,4 @@ Learning and improving step by step.
 - Reviewing governance flow
 - Learning about APIs
 - Studying liquidity models
+- Studying ERC20 basics
