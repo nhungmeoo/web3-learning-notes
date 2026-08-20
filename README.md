@@ -208,3 +208,4 @@ Learning and improving step by step.
 - Learning about APIs
 - Studying liquidity models
 - Studying ERC20 basics
+- Studying mempool
