@@ -209,3 +209,4 @@ Learning and improving step by step.
 - Studying liquidity models
 - Studying ERC20 basics
 - Studying mempool
+- Studying audits
