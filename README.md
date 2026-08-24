@@ -210,3 +210,4 @@ Learning and improving step by step.
 - Studying ERC20 basics
 - Studying mempool
 - Studying audits
+- Reviewing mempool flow
