@@ -211,3 +211,4 @@ Learning and improving step by step.
 - Studying mempool
 - Studying audits
 - Reviewing mempool flow
+- Reviewing wallet connectors
