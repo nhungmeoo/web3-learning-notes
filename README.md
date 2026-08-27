@@ -212,3 +212,4 @@ Learning and improving step by step.
 - Studying audits
 - Reviewing mempool flow
 - Reviewing wallet connectors
+- Reviewing consensus models
