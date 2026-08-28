@@ -213,3 +213,4 @@ Learning and improving step by step.
 - Reviewing mempool flow
 - Reviewing wallet connectors
 - Reviewing consensus models
+- Improving README layout
