@@ -214,3 +214,4 @@ Learning and improving step by step.
 - Reviewing wallet connectors
 - Reviewing consensus models
 - Improving README layout
+- Improving structure
