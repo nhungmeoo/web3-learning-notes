@@ -215,3 +215,4 @@ Learning and improving step by step.
 - Reviewing consensus models
 - Improving README layout
 - Improving structure
+- Improving organization
