@@ -216,3 +216,4 @@ Learning and improving step by step.
 - Improving README layout
 - Improving structure
 - Improving organization
+- Updating structure
