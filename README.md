@@ -217,3 +217,4 @@ Learning and improving step by step.
 - Improving structure
 - Improving organization
 - Updating structure
+- Improving documentation
