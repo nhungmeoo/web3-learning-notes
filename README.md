@@ -218,3 +218,4 @@ Learning and improving step by step.
 - Improving organization
 - Updating structure
 - Improving documentation
+- Studying tokenomics
