@@ -219,3 +219,4 @@ Learning and improving step by step.
 - Updating structure
 - Improving documentation
 - Studying tokenomics
+- Reviewing liquidity
