@@ -220,3 +220,4 @@ Learning and improving step by step.
 - Improving documentation
 - Studying tokenomics
 - Reviewing liquidity
+- Reviewing testing
