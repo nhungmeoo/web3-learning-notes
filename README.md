@@ -221,3 +221,4 @@ Learning and improving step by step.
 - Studying tokenomics
 - Reviewing liquidity
 - Reviewing testing
+- Reviewing zk rollups
