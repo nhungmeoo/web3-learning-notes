@@ -222,3 +222,4 @@ Learning and improving step by step.
 - Reviewing liquidity
 - Reviewing testing
 - Reviewing zk rollups
+- Exploring scalability
