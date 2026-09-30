@@ -223,3 +223,4 @@ Learning and improving step by step.
 - Reviewing testing
 - Reviewing zk rollups
 - Exploring scalability
+- Reviewing token models
