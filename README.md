@@ -224,3 +224,6 @@ Learning and improving step by step.
 - Reviewing zk rollups
 - Exploring scalability
 - Reviewing token models
+
+## October
+- Reviewing sharding
