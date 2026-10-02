@@ -227,3 +227,4 @@ Learning and improving step by step.
 
 ## October
 - Reviewing sharding
+- Improving markdown formatting skills.
