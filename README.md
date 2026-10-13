@@ -229,3 +229,4 @@ Learning and improving step by step.
 - Reviewing sharding
 - Improving markdown formatting skills.
 - Reading about decentralized applications.
+- Reviewing open source repositories.
