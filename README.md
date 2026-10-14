@@ -230,3 +230,4 @@ Learning and improving step by step.
 - Improving markdown formatting skills.
 - Reading about decentralized applications.
 - Reviewing open source repositories.
+- Reviewing blockchain consensus mechanisms.
