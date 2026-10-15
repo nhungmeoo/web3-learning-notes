@@ -231,3 +231,4 @@ Learning and improving step by step.
 - Reading about decentralized applications.
 - Reviewing open source repositories.
 - Reviewing blockchain consensus mechanisms.
+- Writing better technical summaries.
