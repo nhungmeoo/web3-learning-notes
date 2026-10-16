@@ -232,3 +232,4 @@ Learning and improving step by step.
 - Reviewing open source repositories.
 - Reviewing blockchain consensus mechanisms.
 - Writing better technical summaries.
+- Adding clearer documentation sections.
