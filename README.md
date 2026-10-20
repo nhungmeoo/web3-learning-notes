@@ -234,3 +234,4 @@ Learning and improving step by step.
 - Writing better technical summaries.
 - Adding clearer documentation sections.
 - Documenting daily development routine.
+- Exploring audit methodologies.
