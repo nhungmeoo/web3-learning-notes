@@ -235,3 +235,4 @@ Learning and improving step by step.
 - Adding clearer documentation sections.
 - Documenting daily development routine.
 - Exploring audit methodologies.
+- Reviewing distributed systems basics.
