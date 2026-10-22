@@ -236,3 +236,4 @@ Learning and improving step by step.
 - Documenting daily development routine.
 - Exploring audit methodologies.
 - Reviewing distributed systems basics.
+- Reviewing project long-term vision.
