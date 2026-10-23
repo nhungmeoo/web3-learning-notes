@@ -237,3 +237,4 @@ Learning and improving step by step.
 - Exploring audit methodologies.
 - Reviewing distributed systems basics.
 - Reviewing project long-term vision.
+- Expanding my knowledge in blockchain architecture.
