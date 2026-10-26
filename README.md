@@ -238,3 +238,4 @@ Learning and improving step by step.
 - Reviewing distributed systems basics.
 - Reviewing project long-term vision.
 - Expanding my knowledge in blockchain architecture.
+- Studying inflationary vs deflationary tokens.
