@@ -240,3 +240,4 @@ Learning and improving step by step.
 - Expanding my knowledge in blockchain architecture.
 - Studying inflationary vs deflationary tokens.
 - Researching decentralized identity systems.
+- Reviewing smart contract deployment checklist.
