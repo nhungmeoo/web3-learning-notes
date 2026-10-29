@@ -241,3 +241,4 @@ Learning and improving step by step.
 - Studying inflationary vs deflationary tokens.
 - Researching decentralized identity systems.
 - Reviewing smart contract deployment checklist.
+- Improving clarity in technical explanations.
