@@ -239,6 +239,9 @@ Learning and improving step by step.
 - Reviewing project long-term vision.
 - Expanding my knowledge in blockchain architecture.
 - Studying inflationary vs deflationary tokens.
+
+## November
+- Improving documentation flow again.
 - Researching decentralized identity systems.
 - Reviewing smart contract deployment checklist.
 - Improving clarity in technical explanations.
