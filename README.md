@@ -246,3 +246,4 @@ Learning and improving step by step.
 - Reviewing smart contract deployment checklist.
 - Improving clarity in technical explanations.
 - Refining repository learning structure.
+- Reviewing MIT vs GPL differences.
