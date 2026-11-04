@@ -247,3 +247,4 @@ Learning and improving step by step.
 - Improving clarity in technical explanations.
 - Refining repository learning structure.
 - Reviewing MIT vs GPL differences.
+- Studying wallet signature flows.
