@@ -248,3 +248,4 @@ Learning and improving step by step.
 - Refining repository learning structure.
 - Reviewing MIT vs GPL differences.
 - Studying wallet signature flows.
+- Studying borrowing collateral models.
